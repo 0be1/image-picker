@@ -42,7 +42,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<upstream.version>0.2.4</upstream.version>
 		<!-- Waiting for Lea to tag the repository: https://github.com/LeaVerou/prefixfree/issues/45 -->
-		<upstream.url>https://github.com/rvera/image-picker/tree/master/image-picker</upstream.url>
+		<upstream.url>https://raw.githubusercontent.com/rvera/image-picker/master/image-picker/</upstream.url>
 		<destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
 	</properties>
 
